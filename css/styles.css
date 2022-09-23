@@ -1,0 +1,48 @@
+body {
+    font: 20px Arial;
+}
+
+.menu {
+    margin-left: 100px;
+}
+
+.navbar {
+    background: #26d1e4;
+}
+
+.quem-somos {
+    color: #fff;
+    background: #65a2ca;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.time {
+    margin: 30px;
+}
+
+.parceiros {
+    background: #26d1e4;
+    color: #fff;
+}
+
+.serviços {
+    color: #fff;
+    background: #65a2ca;
+}
+
+.bg-footer {
+    padding-top: 30px;
+    background: #26d1e4;
+}
+
+.bg-footer a{
+    font: normal 17pt Arial;
+    font-weight: bolder;
+    color: #fff;
+    text-decoration: none;
+}
+
